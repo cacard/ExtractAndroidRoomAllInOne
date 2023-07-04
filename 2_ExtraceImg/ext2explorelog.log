@@ -1,0 +1,13 @@
+Error Opening \\.\PhysicalDrive2. Error Code 2
+No of disks 2
+Scanning \\.\PhysicalDrive0
+index 0 ID EE size -1 
+Scanning \\.\PhysicalDrive1
+index 0 ID EE size -1 
+Partition Table Error on D:/_boevrUnity/_pico/OS/g2pro/_rom/system.img
+Invalid End of sector markerBlock size 4096, inp 8176, inodesize 256
+Linux Partition found on disk 3 partition 0
+Inode 1587 with file size 0
+Inode 1592 with file size 0
+Inode 1600 with file size 0
+Inode 3675 with file size 0
